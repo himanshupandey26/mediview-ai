@@ -1,0 +1,41 @@
+# Byte-code files
+*.pyc
+__pycache__/
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+/bin/
+/include/
+/lib/
+/share/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+*.log
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python build artifacts
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+config.toml
+secrets.toml
+# .streamlit

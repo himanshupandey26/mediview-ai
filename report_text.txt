@@ -1,0 +1,9 @@
+Hemoglobin: 13.5 g/dL
+WBC Count: 7500 cells/μL
+Platelet Count: 250,000/μL
+RBC Count: 4.8 million cells/μL
+Glucose (Fasting): 95 mg/dL
+Total Cholesterol: 180 mg/dL
+LDL: 100 mg/dL
+HDL: 55 mg/dL
+Triglycerides: 125 mg/dL
