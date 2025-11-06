@@ -1,8 +1,8 @@
-# 🏥 MediScan AI
+# 🏥 MediView AI
 
 <div align="center">
 
-![MediScan AI](https://img.shields.io/badge/MediScan-AI-1E88E5?style=for-the-badge&logo=healthcare)
+![MediView AI](https://img.shields.io/badge/MediView-AI-1E88E5?style=for-the-badge&logo=healthcare)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -43,9 +43,9 @@ Transform complex medical reports into simple, actionable health insights
 
 ## 🎯 About
 
-**MediScan AI** is an intelligent healthcare application that empowers patients to understand their medical reports without needing a medical degree. Using Google's advanced Gemini AI, it analyzes lab reports, blood tests, and diagnostic documents, translating medical jargon into clear, actionable insights in your preferred language.
+**MediView AI** is an intelligent healthcare application that empowers patients to understand their medical reports without needing a medical degree. Using Google's advanced Gemini AI, it analyzes lab reports, blood tests, and diagnostic documents, translating medical jargon into clear, actionable insights in your preferred language.
 
-### 🌟 Why MediScan AI?
+### 🌟 Why MediView AI?
 
 > *"Healthcare information should be accessible to everyone, not just medical professionals."*
 
@@ -73,7 +73,7 @@ Transform complex medical reports into simple, actionable health insights
 
 ## 💡 Solution
 
-MediScan AI bridges this gap through:
+MediView AI bridges this gap through:
 
 1. **AI-Powered Analysis:** Advanced Gemini 2.0 Flash model interprets medical data
 2. **Simple Explanations:** Converts technical terms into everyday language
@@ -179,7 +179,7 @@ Before you begin, ensure you have:
 
 ```bash
 # Using Git
-git clone https://github.com/yourusername/mediscan-ai.git
-cd mediscan-ai
+git clone https://github.com/yourusername/MediView-ai.git
+cd MediView-ai
 
 # OR Download ZIP and extract
